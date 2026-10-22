@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release once its DOI has been assigned."
+title: "Pisano equations: reproducible mathematical audit"
+type: software
+version: 1.0.0
+date-released: 2026-10-21
+abstract: "Procedural Python code reproducing the equations, synthetic input designs, numerical tables and figures for a comparative mathematical audit of four historical Pisano deposition equations."
+authors:
+  - family-names: "Bravo Márquez"
+    given-names: "José"
+  - family-names: "Marín-Rodríguez"
+    given-names: "F. Javier"
+    orcid: "https://orcid.org/0009-0009-1751-9443"
+  - family-names: "Poyatos Capilla"
+    given-names: "José Manuel"
+  - family-names: "Martín-Pascual"
+    given-names: "Jaime"
+    orcid: "https://orcid.org/0000-0003-3562-1571"
+license: MIT
+keywords:
+  - sewer sediments
+  - Pisano equations
+  - Latin hypercube sampling
+  - sensitivity analysis
+  - reproducibility
