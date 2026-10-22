@@ -1,0 +1,103 @@
+{
+  "passed": true,
+  "relative_tolerance": 1e-10,
+  "absolute_tolerance": 1e-12,
+  "tables": [
+    {
+      "file": "US_SI_crosscheck.csv",
+      "rows": 12,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "US_SI_test_inputs.csv",
+      "rows": 3,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "analytic.csv",
+      "rows": 64,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "coefficient_audit.csv",
+      "rows": 4,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "convergence.csv",
+      "rows": 9,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "field_context.csv",
+      "rows": 8,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "flow_exact_shares.csv",
+      "rows": 16,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "flow_levels.csv",
+      "rows": 4,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "flow_pairwise.csv",
+      "rows": 6,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "flow_sensitivity.csv",
+      "rows": 16,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "flow_summary.csv",
+      "rows": 1,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "largest_reorderings.csv",
+      "rows": 400,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "pairwise.csv",
+      "rows": 48,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "reordered_groups.csv",
+      "rows": 8,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "sensitivity.csv",
+      "rows": 128,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "file": "summary.csv",
+      "rows": 8,
+      "maximum_absolute_error": 0.0,
+      "passed": true
+    }
+  ]
+}

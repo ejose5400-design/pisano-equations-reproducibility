@@ -1,0 +1,27 @@
+[
+  {
+    "figure": "global_comparison",
+    "identical_pixels": true,
+    "maximum_channel_difference": 0
+  },
+  {
+    "figure": "rank_agreement",
+    "identical_pixels": true,
+    "maximum_channel_difference": 0
+  },
+  {
+    "figure": "sensitivity",
+    "identical_pixels": true,
+    "maximum_channel_difference": 0
+  },
+  {
+    "figure": "eq1_diagnostics",
+    "identical_pixels": true,
+    "maximum_channel_difference": 0
+  },
+  {
+    "figure": "eq4_diagnostics",
+    "identical_pixels": true,
+    "maximum_channel_difference": 0
+  }
+]
